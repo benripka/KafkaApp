@@ -1,4 +1,4 @@
-#Confluent Producer + Consumer
+<h1>Confluent Producer + Consumer</h1>
 
 <h2>Local Setup</h2>
 
